@@ -5,5 +5,5 @@ This repository is used to keep track of all the learning through out the nanode
 1.  Surveyed the course.
 2.  Pledged for 30 Days of Udacity https://www.screencast.com/t/DLhH4qnF
 
-**Day 1 (13th. Sept, 2019):** starting off again as I missed 2 days due to some work commitments<br/>
+**Day 1 (13th. Sept, 2019):** starting off again as I missed 2 days due to some work commitments :worried: <br/>
 1. I needed a quick refresher of how Ananconda works so I completed [Anaconda and Jupyter Notebooks course by Udacity](https://classroom.udacity.com/courses/ud1111) here is the screenshots of it: [Lesson 1](https://www.screencast.com/t/MB2J1f0C), [Lesson 2](https://www.screencast.com/t/77MBfMYAPt)
