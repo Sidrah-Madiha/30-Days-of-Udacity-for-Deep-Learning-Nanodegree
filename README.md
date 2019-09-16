@@ -11,3 +11,7 @@ This repository is used to keep track of all the learning through out the nanode
 **Day 2 (14th. Sept, 2019):** <br/>
 Reached to Lesson 6 of Into to Deep Learning https://prnt.sc/p6ewt5 
 
+**Day 3 (15th. Sept, 2019):** <br/>
+1. Used style transfer from https://github.com/lengstrom/fast-style-transfer to transfer style of rain pricess image to content of gril with pearl earring. #MadeWithUdacity 
+<img src="images/rain_princess.jpg width= 100> <img src="images/Contentimage.jpg width= 100> <img src="images/output_image.jpg width= 100> 
+
