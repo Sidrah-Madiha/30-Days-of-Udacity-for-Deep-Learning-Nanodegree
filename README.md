@@ -18,3 +18,6 @@ Reached to Lesson 6 of Into to Deep Learning https://prnt.sc/p6ewt5
 **Day 4 (16th. Sept, 2019):** <br/>
 1. Completed Intro to Deep Learning Lesson https://www.screencast.com/t/sSMfBavk
 2. Watched video provided by mentor @Neelansh Sahai: https://youtu.be/aircAruvnKk to get basic intuition about Neural Networks.
+
+**Day 5 (17th. Sept, 2019):** <br/>
+Took day off
