@@ -21,3 +21,6 @@ Reached to Lesson 6 of Into to Deep Learning https://prnt.sc/p6ewt5
 
 **Day 5 (17th. Sept, 2019):** <br/>
 Took day off
+
+**Day 8 (18th. Sept, 2019):** <br/>
+Completed revision of Lesson: Intro to Neural Network uptil video 22 - Multiclass Cross Entropy 
