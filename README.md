@@ -27,3 +27,7 @@ Completed revision of Lesson: Intro to Neural Network uptil video 22 - Multiclas
 
 **Day 7/30 (19th. Sept, 2019):** <br/>
 Completed revision of Lesson: Intro to Neural Network
+
+**Day 8/30 (19th. Sept, 2019):** <br/>
+Completed Lesson: Backpropagation
+https://prnt.sc/p97mik
