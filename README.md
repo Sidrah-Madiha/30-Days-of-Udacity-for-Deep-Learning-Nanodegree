@@ -28,6 +28,9 @@ Completed revision of Lesson: Intro to Neural Network uptil video 22 - Multiclas
 **Day 7/30 (19th. Sept, 2019):** <br/>
 Completed revision of Lesson: Intro to Neural Network
 
-**Day 8/30 (19th. Sept, 2019):** <br/>
+**Day 8/30 (20th. Sept, 2019):** <br/>
 Completed Lesson: Backpropagation
 https://prnt.sc/p97mik
+
+**Day 9/30 (21st. Sept, 2019):** <br/>
+Started practicing coding problems related to Numpy on hackerrank, earned 4th star for it :blush:  https://www.screencast.com/t/SNBrorLq
