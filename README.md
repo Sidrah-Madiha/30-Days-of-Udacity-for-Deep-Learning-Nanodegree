@@ -41,7 +41,7 @@ Started practicing coding problems related to Numpy on hackerrank, earned 4th st
 As they say 
 > "Fall down seven times, stand up eight"
 
-I had a serious family emergency which compelled me to stop all my activities and focus on that situaton only, now I am restarting my pledge, commitinh to start my learning more effectively than before. <br/>
+I had a serious family emergency which compelled me to stop all my activities and focus on that situaton only, now I am restarting my pledge, commiting to start my learning more effectively than before. <br/>
 
 
 **Day 1/30 (13th. Oct, 2019):** <br/>
