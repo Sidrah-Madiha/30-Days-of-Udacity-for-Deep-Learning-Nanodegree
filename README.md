@@ -34,3 +34,14 @@ https://prnt.sc/p97mik
 
 **Day 9/30 (21st. Sept, 2019):** <br/>
 Started practicing coding problems related to Numpy on hackerrank, earned 4th star for it :blush:  https://www.screencast.com/t/SNBrorLq
+
+================================ ## RESTARTING 30 Days of Udacity Pledge ========================================================
+As they say 
+> "Fall down seven times, stand up eight"
+
+I had a serious family emergency which compelled me to stop all my activities and focus on that situaton only, now I am restarting my pledge, commitinh to start my learning more effectively than before.
+**Day 1/30 (13th. Oct, 2019):** <br/>
+1. Restarted pledge of 30 days of Udacity.
+2. Completed and submitted first project "Predicting Bike Sharing Patterns" 
+3. Read and got inspired from amazing [interview of Google AI's Maya Gupta](https://mlatgt.blog/2019/05/21/9-questions-with-google-ais-maya-gupta-teaching-computers-to-gamble-well-knowing-how-to-play-the-career-game-and-a-solution-to-boring-plane-rides/)
+
