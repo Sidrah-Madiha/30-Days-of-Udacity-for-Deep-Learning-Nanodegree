@@ -48,6 +48,6 @@ I had a serious family emergency which compelled me to stop all my activities an
 1. Restarted pledge of 30 days of Udacity.
 <img src="images/Proof0.png" width= "100">
 2. Completed and submitted first project "Predicting Bike Sharing Patterns" 
-<img src="images/BikeSharingProof1.png" width= "100"><img src="images/Bikesharingproof2.png" width= "100"><img src="images/projectbikesharingproof3.png" width= "100">
+<img src="images/BikeSharingProof1.png" width= "300"><img src="images/Bikesharingproof2.png" width= "300"><img src="images/projectbikesharingproof3.png" width= "300">
 3. Read and got inspired from amazing [interview of Google AI's Maya Gupta](https://mlatgt.blog/2019/05/21/9-questions-with-google-ais-maya-gupta-teaching-computers-to-gamble-well-knowing-how-to-play-the-career-game-and-a-solution-to-boring-plane-rides/)
 
