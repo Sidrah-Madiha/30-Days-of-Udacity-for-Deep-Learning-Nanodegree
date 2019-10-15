@@ -52,3 +52,7 @@ I had a serious family emergency which compelled me to stop all my activities an
 
 3. Read and got inspired from amazing [interview of Google AI's Maya Gupta](https://mlatgt.blog/2019/05/21/9-questions-with-google-ais-maya-gupta-teaching-computers-to-gamble-well-knowing-how-to-play-the-career-game-and-a-solution-to-boring-plane-rides/)
 
+**Day 2/30 (14th. Oct, 2019):** <br/>
+1. Started Lesson 6: Sentiment Analysis, completed miniproject 1 (Curating dataset and validating predictive theory)
+<img src="images/Miniproject1.png" width = "200">
+
