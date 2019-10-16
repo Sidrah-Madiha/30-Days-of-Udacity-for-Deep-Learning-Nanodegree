@@ -56,3 +56,7 @@ I had a serious family emergency which compelled me to stop all my activities an
 1. Started Lesson 6: Sentiment Analysis, completed miniproject 1 (Curating dataset and validating predictive theory)
 <img src="images/Miniproject1.png" width = "200">
 
+**Day 3/30 (15th. Oct, 2019):** <br/>
+1. Completed miniproject 2 from Lesson 6: Sentiment Analysis (Transforming text into numbers)
+<img src="images/Miniproject2.png" width = "200">
+
