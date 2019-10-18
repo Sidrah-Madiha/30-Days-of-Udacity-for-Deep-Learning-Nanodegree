@@ -60,3 +60,12 @@ I had a serious family emergency which compelled me to stop all my activities an
 1. Completed miniproject 2 from Lesson 6: Sentiment Analysis (Transforming text into numbers)
 <img src="images/Miniproject2.png" width = "200">
 
+**Day 4/30 (16th. Oct, 2019):** <br/>
+1. Stuck at miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
+<img src="images/Miniproject3Unsuccessful.png" width = "200">
+
+**Day 5/30 (16th. Oct, 2019):** <br/>
+1. Still stuck at miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
+
+
+
