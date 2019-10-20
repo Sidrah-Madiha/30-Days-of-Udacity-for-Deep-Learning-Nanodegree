@@ -66,6 +66,7 @@ I had a serious family emergency which compelled me to stop all my activities an
 
 **Day 5/30 (17th. Oct, 2019):** <br/>
 1. Still stuck at miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
+
 **Day 6/30 (18th. Oct, 2019):** <br/>
 1. Managed to find what was broken in my implementation of  miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
 
