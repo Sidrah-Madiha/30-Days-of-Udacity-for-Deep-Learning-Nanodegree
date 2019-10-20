@@ -64,8 +64,23 @@ I had a serious family emergency which compelled me to stop all my activities an
 1. Stuck at miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
 <img src="images/Miniproject3Unsuccessful.png" width = "200">
 
-**Day 5/30 (16th. Oct, 2019):** <br/>
+**Day 5/30 (17th. Oct, 2019):** <br/>
 1. Still stuck at miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
+**Day 6/30 (18th. Oct, 2019):** <br/>
+1. Managed to find what was broken in my implementation of  miniproject3 from Lesson 6: Sentiment Analysis (Building Neural Network)
+
+**Day 7/30 (19th. Oct, 2019):** <br/>
+1. Completed miniproject 4 and 5 from Lesson 6: Sentiment Analysis (Building Neural Network), posted questions I had in Developer Circles: Deep Learning Nanodegree Recipients Group: https://www.screencast.com/t/QGYjsmnd
+
+**Day 8/30 (20th. Oct, 2019):** <br/>
+1. Understood miniproject 6 from Lesson 6: Sentiment Analysis (Building Neural Network), will code day after tomorrow.
+<img src="images/miniproject5.png" width = "200">
+
+
+
+
+
+
 
 
 
