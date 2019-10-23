@@ -77,6 +77,13 @@ I had a serious family emergency which compelled me to stop all my activities an
 1. Understood miniproject 6 from Lesson 6: Sentiment Analysis (Building Neural Network), will code day after tomorrow.
 <img src="images/miniproject5.png" width = "200">
 
+**Day 9/30 (20th. Oct, 2019):** <br/>
+1. Completed Lesson 6: Sentiment Analysis (Building Neural Network)
+<img src="images/Sentimentend.png" width = "200">
+
+**Day 10/30 (20th. Oct, 2019):** <br/>
+1. Completed Lesson 6: Sentiment Analysis (Building Neural Network)
+<img src="images/Pytorch10.png" width = "200">
 
 
 
