@@ -82,7 +82,7 @@ I had a serious family emergency which compelled me to stop all my activities an
 <img src="images/Sentimentend.png" width = "200">
 
 **Day 10/30 (20th. Oct, 2019):** <br/>
-1. Completed Lesson 6: Sentiment Analysis (Building Neural Network)
+1. Completed 10 videos from Lesson: 7 Deep Learning with Pytorch, started working on MNIST dataset
 <img src="images/Pytorch10.png" width = "200">
 
 
