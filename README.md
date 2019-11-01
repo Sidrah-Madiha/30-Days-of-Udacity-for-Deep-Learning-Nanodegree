@@ -86,8 +86,13 @@ I had a serious family emergency which compelled me to stop all my activities an
 <img src="images/Pytorch10.png" width = "200">
 
 
+## RESTARTING 30 Days of Udacity Pledge for the third time
 
+**Day 1/30 (31st. Oct, 2019):** <br/>
+ - Completed Lesson 7 Deep Learning with Pytorch
+ <img src="images/Lesson7Completed.png" width = "200">
 
+ 
 
 
 
