@@ -92,7 +92,17 @@ I had a serious family emergency which compelled me to stop all my activities an
  - Completed Lesson 7 Deep Learning with Pytorch
  <img src="images/Lesson7Completed.png" width = "200">
 
- 
+**Day 2/30 (1st. Nov, 2019):** <br/>
+Completed 10 videos of Lesson 1 Convolutional Neural Network 
+
+ **Day 3/30 (2nd. Nov, 2019):** <br/>
+- Completed next 10 videos of Lesson 1 Convolutional Neural Network 
+- Answered a query in Deep Learning channel.
+
+**Day 4/30 (2nd. Nov, 2019):** <br/>
+Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy dataset.
+
+
 
 
 
