@@ -103,7 +103,8 @@ Completed 10 videos of Lesson 1 Convolutional Neural Network
 
 **Day 4/30 (3rd. Nov, 2019):** <br/>
 Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy dataset.
-<img src="images/CIFARProject.png" width = "200">
+
+<img src="images/CIFARProject.png" width = "200"> <br/>
 <img src="images/CNNCompleted.png" width = "200">
 
 
