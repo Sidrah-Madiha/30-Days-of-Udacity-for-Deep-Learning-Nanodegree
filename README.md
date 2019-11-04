@@ -98,9 +98,13 @@ Completed 10 videos of Lesson 1 Convolutional Neural Network
  **Day 3/30 (2nd. Nov, 2019):** <br/>
 - Completed next 10 videos of Lesson 1 Convolutional Neural Network 
 - Answered a query in Deep Learning channel.
+<img src="images/Answerpart1.png" width = "200">
+<img src="images/Answerpart2.png" width = "200">
 
-**Day 4/30 (2nd. Nov, 2019):** <br/>
+**Day 4/30 (3rd. Nov, 2019):** <br/>
 Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy dataset.
+<img src="images/CIFARProject.png" width = "200">
+<img src="images/CNNCompleted.png" width = "200">
 
 
 
