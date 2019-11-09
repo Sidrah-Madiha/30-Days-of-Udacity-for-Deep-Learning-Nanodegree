@@ -108,6 +108,13 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 <img src="images/CNNCompleted.png" width = "200">
 
 
+## RESTARTING 30 Days of Udacity Pledge for the fourth time
+
+**Day 1/30 (8th. Nov, 2019):** <br/>
+- Completed Lesson 3 Transfer Learning of Part Convolutional Neural Network
+
+**Day 2/30 (9th. Nov, 2019):** <br/>
+- Completed Lesson 4 Weight Initialization Part Convolutional Neural Network
 
 
 
