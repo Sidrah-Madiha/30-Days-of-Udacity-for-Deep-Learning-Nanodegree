@@ -116,7 +116,7 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 2/30 (9th. Nov, 2019):** <br/>
 - Completed Lesson 4 Weight Initialization Part Convolutional Neural Network
 
-**Day 3/30 (9th. Nov, 2019):** <br/>
+**Day 3/30 (10th. Nov, 2019):** <br/>
 - Completed Lesson 5 Autoencoders Part of Convolutional Neural Network, worked on Linear Autoencoders for data compression and descompression (encoders with all linear layers in encoder and decoder parts), worked on Convolutional Autoencoders for data compression and descompression and well as denoising images.
 
 
