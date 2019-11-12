@@ -122,7 +122,7 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 4/30 (11th. Nov, 2019):** <br/>
 - Started Lesson 6 Style Transfer Part Convolutional Neural Network, watched first 4 videos
 
-**Day 5/30 (11th. Nov, 2019):** <br/>
+**Day 5/30 (12th. Nov, 2019):** <br/>
 - Completed Lesson 6 Style Transfer Part Convolutional Neural Network, worked on Style Transfer notebook and transferred style of one image to content of another image.
 
 
