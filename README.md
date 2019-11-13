@@ -126,3 +126,6 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 - Completed Lesson 6 Style Transfer Part Convolutional Neural Network, worked on Style Transfer notebook and transferred style of one image to content of another image.
 <img src="images/StyleTransfer.png" width= "3000">
 
+**Day 6/30 (13th. Nov, 2019):** <br/>
+- Started Dog Breed Classifier Project, just got overview of project details, rubric and started the project and just completed part 1 of the project today, feeling a bit overwhelmed, will work towards it more tomorrow.
+
