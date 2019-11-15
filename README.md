@@ -129,6 +129,6 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 6/30 (13th. Nov, 2019):** <br/>
 - Started Dog Breed Classifier Project, just got overview of project details, rubric and started the project and just completed part 1 of the project today, feeling a bit overwhelmed, will work towards it more tomorrow.
 
-**Day 7/30 (13th. Nov, 2019):** <br/>
+**Day 7/30 (14th. Nov, 2019):** <br/>
 - Still working on project "Dog Breed Classifier" , tried working with dlib library, running into issues, will look into it tomorrow.
 
