@@ -132,3 +132,8 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 7/30 (14th. Nov, 2019):** <br/>
 - Still working on project "Dog Breed Classifier" , tried working with dlib library, running into issues, will look into it tomorrow.
 
+**Day 8/30 (15th. Nov, 2019):** <br/>
+- Still working on project "Dog Breed Classifier" , my own dog breed classifier didn't acheive more than 10 percent accuaracy, struggling to make it work.
+
+**Day 9/30 (16th. Nov, 2019):** <br/>
+- Still working on project "Dog Breed Classifier" , found the issue I didn't normalize test data and that was causing issue of acheiving more than 10 percent accuaracy, wasted more than 5 GPU hours, too tired to go on, now will resume work tomorrow.
