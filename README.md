@@ -137,3 +137,9 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 
 **Day 9/30 (16th. Nov, 2019):** <br/>
 - Still working on project "Dog Breed Classifier" , found the issue I didn't normalize test data and that was causing issue of acheiving more than 10 percent accuaracy, wasted more than 5 GPU hours, too tired to go on, now will resume work tomorrow.
+
+**Day 10/30 (17th. Nov, 2019):** <br/>
+- Still working on project "Dog Breed Classifier" , acheived only 57 percent accuracy on my tansfer learning based dog breed classifier, I only changed number of output in pretrained network, spent 5 hours on it.Now I will use an added linear layer and train network tomorrow.
+
+**Day 11/30 (18th. Nov, 2019):** <br/>
+- Finally completed project Dog Breed Classifier !!! Phew!! that took alot of time, now reading section "Jobs in Deep Learning"
