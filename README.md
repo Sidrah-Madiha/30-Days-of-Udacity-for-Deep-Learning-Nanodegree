@@ -143,3 +143,12 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 
 **Day 11/30 (18th. Nov, 2019):** <br/>
 - Finally completed project Dog Breed Classifier !!! Phew!! that took alot of time, now reading section "Jobs in Deep Learning"
+
+**Day 12/30 (19th. Nov, 2019):** <br/>
+- Took a day off
+
+**Day 12/30 (20th. Nov, 2019):** <br/>
+- Completed Lesson 1 of Part "Recurrent Neural Networks"
+
+
+
