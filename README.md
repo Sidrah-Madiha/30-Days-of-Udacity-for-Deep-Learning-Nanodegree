@@ -148,7 +148,7 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 - Took a day off
 
 **Day 12/30 (20th. Nov, 2019):** <br/>
-- Completed Lesson 1 of Part "Recurrent Neural Networks"
+- Completed half of Lesson 1 of Part "Recurrent Neural Networks"
 
 
 
