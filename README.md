@@ -153,5 +153,22 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 13/30 (21st. Nov, 2019):** <br/>
 - Completed 3 videos of Lesson 1 of Part "Recurrent Neural Networks"
 
+**Day 14/30 (22nd. Nov, 2019):** <br/>
+- Completed all of Lesson 1 of Part "Recurrent Neural Network
+
+**Day 15/30 (23rd. Nov, 2019):** <br/>
+- Completed of Lesson 2 (LSTM) of Part "Recurrent Neural Network
+
+**Day 16/30 (24th. Nov, 2019):** <br/>
+- started off Lesson 3 (Implementation of RNN and  LSTM) of Part "Recurrent Neural Network, stopped lesson at Character wise RNNs.
+
+**Day 17/30 (25th. Nov, 2019):** <br/>
+- Completed Lesson 3 (Implementation of RNN and  LSTM) of Part "Recurrent Neural Network
+
+
+
+
+
+
 
 
