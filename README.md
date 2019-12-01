@@ -177,6 +177,8 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 21/30 (29th. Nov, 2019):** <br/>
 -Took off.
 
+**Day 22/30 (30th. Nov, 2019):** <br/>
+- Completed Lesson "Embeddings and Word2Vec" of Part "Recurrent Neural Network
 
 
 
