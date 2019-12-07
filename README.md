@@ -183,6 +183,17 @@ Finally Completed Lesson 1 Convolutional Neural Network, worked on CIFAR-10 toy 
 **Day 23/30 (1st. Dec, 2019):** <br/>
 - Completed Lesson "Sentiment Prediction RNN" of Part "Recurrent Neural Network
 
+**Day 24/30 (2nd. Dec, 2019):** TILL **Day 24/30 5th. Dec, 2019):**
+I had to take a break, intense fever and flu with a cyst on my left leg stopped me from any activity except for eating, sleeping and going to the restroom. (counting it as one day of 30 days but will overcome it with the rest of the days left. 
+
+**Day 25/30 (6th. Dec, 2019):**
+Started working on Project "TV Script Generation", so far it is easy project, I am using Google Colab for this project to save Udacity's account GPU hours. Stopped at the step "Building Network"
+
+**Day 26/30 (7th. Dec, 2019):**
+- Resumed work on project.
+- Completed and submitted project "TV Script Generation"
+
+
 
 
 
