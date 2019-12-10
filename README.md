@@ -193,6 +193,12 @@ Started working on Project "TV Script Generation", so far it is easy project, I 
 - Resumed work on project.
 - Completed and submitted project "TV Script Generation"
 
+**Day 27/30 (8th. Dec, 2019):**
+Started Lesson 5 "GAN"
+
+**Day 28/30 (9th. Dec, 2019):**
+Still stuck at understanding GAN architecture, little hard to grasp the concept of 2 network working against each other, their cost functions are really confusing
+
 
 
 
