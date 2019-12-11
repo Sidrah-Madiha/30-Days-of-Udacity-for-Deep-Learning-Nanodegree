@@ -199,6 +199,8 @@ Started Lesson 5 "GAN"
 **Day 28/30 (9th. Dec, 2019):**
 Still stuck at understanding GAN architecture, little hard to grasp the concept of 2 network working against each other, their cost functions are really confusing
 
+**Day 29/30 (10th. Dec, 2019):**
+Completed first lesson of part Generative Adverserial Network, worked on implementing basic Generative Adverserial Network using only  linear layers in  Generator and Descriminator model. 
 
 
 
