@@ -202,6 +202,8 @@ Still stuck at understanding GAN architecture, little hard to grasp the concept 
 **Day 29/30 (10th. Dec, 2019):**  <br/>
 Completed first lesson of part Generative Adverserial Network, worked on implementing basic Generative Adverserial Network using only  linear layers in  Generator and Discriminator model. [Exercise Link](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/MNIST_GAN_Exercise.ipynb)
 
+**Day 30/30 (11th. Dec, 2019):**  <br/>
+Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generative Adverserial Network", understood [Benefits of Batch Normalization] (https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/Batch_Normalization.ipynb)
 
 
 
