@@ -208,9 +208,10 @@ Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generati
 ## Another round of 30 Days of Udacity
 
 **Day 1/30 (12th. Dec, 2019):**  <br/>
+- Took pledge for 30 Days of Udacity
 -  Completed Lesson 2 "Deep Convolutional GANs" of Part "Generative Adverserial Network".
 - Worked on [exercise](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/DCGAN_Exercise.ipynb) that teaches to create a Street View Housing Number Generator using Deep Convolutional GANs .
-
+I encourage @PawanB and myself to keep going, #FinalDaysof2019 #30DaysofUdacity 
 
 
 
