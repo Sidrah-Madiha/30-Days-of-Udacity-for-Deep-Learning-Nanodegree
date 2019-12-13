@@ -209,7 +209,7 @@ Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generati
 
 **Day 1/30 (12th. Dec, 2019):**  <br/>
 -  Completed Lesson 2 "Deep Convolutional GANs" of Part "Generative Adverserial Network".
-- Worked on exercise that teaches to create a Street View Housing Number Generator using Deep Convolutional GANs.
+- Worked on [exercise](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/DCGAN_Exercise.ipynb) that teaches to create a Street View Housing Number Generator using Deep Convolutional GANs .
 
 
 
