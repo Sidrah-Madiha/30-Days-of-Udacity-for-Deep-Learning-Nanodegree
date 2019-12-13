@@ -205,7 +205,11 @@ Completed first lesson of part Generative Adverserial Network, worked on impleme
 **Day 30/30 (11th. Dec, 2019):**  <br/>
 Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generative Adverserial Network", understood [Benefits of Batch Normalization](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/Batch_Normalization.ipynb)
 
+## Another round of 30 Days of Udacity
 
+**Day 1/30 (12th. Dec, 2019):**  <br/>
+-  Completed Lesson 2 "Deep Convolutional GANs" of Part "Generative Adverserial Network".
+- Worked on exercise that teaches to create a Street View Housing Number Generator using Deep Convolutional GANs.
 
 
 
