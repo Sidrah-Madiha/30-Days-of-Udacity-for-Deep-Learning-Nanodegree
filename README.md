@@ -221,7 +221,7 @@ I encourage @PawanB and myself to keep going, #FinalDaysof2019 #30DaysofUdacity
 <img src="images/Honrable_Mentions.png" width = "500"> <img src="images/Honarable_Mention_Wall_2.png" width = "500">
 
 - Completed Lesson "Pix2Pix and CycelGAN"  of Part "Generative Adverserial Network".
-
+I encourage @FridaR and @THIYAGARAJANR
 
 
 
