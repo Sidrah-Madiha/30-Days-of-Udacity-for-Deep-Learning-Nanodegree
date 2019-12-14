@@ -213,6 +213,15 @@ Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generati
 - Worked on [exercise](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/DCGAN_Exercise.ipynb) that teaches to create a Street View Housing Number Generator using Deep Convolutional GANs .
 I encourage @PawanB and myself to keep going, #FinalDaysof2019 #30DaysofUdacity 
 
+**Day 2/30 (13th. Dec, 2019):**  <br/>
+- Earned badge from Udacity for completing #30DaysofUdacity 
+<img src="images/30-day-Badges-1.png" width = "500">
+
+- Also my name was listed on honorable mentions wall.
+<img src="images/Honrable_Mentions.png" width = "500"> <img src="images/Honarable_Mention_Wall_2.png" width = "500">
+
+- Completed Lesson "Pix2Pix and CycelGAN"  of Part "Generative Adverserial Network".
+
 
 
 
