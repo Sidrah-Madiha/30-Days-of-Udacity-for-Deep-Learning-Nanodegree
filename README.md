@@ -214,10 +214,10 @@ Completed first 7 videos of Lesson 2 "Deep Convolutional GANs" of Part "Generati
 I encourage @PawanB and myself to keep going, #FinalDaysof2019 #30DaysofUdacity 
 
 **Day 2/30 (13th. Dec, 2019):**  <br/>
-- Earned badge from Udacity for completing #30DaysofUdacity  :relaxed: :blushed: :relieved:
+- Earned badge from Udacity for completing #30DaysofUdacity  :relaxed: :blush: :relieved:
 <img src="images/30-day-Badges-1.png" width = "500">
 
-- Also my name was listed on honorable mentions wall. :relaxed: :blushed: :relieved: :high_brightness:
+- Also my name was listed on honorable mentions wall. :relaxed: :blush: :relieved: :high_brightness:
 <img src="images/Honrable_Mentions.png" width = "500"> <img src="images/Honarable_Mention_Wall_2.png" width = "500">
 
 - Completed Lesson "Pix2Pix and CycelGAN"  of Part "Generative Adverserial Network".
