@@ -231,9 +231,7 @@ I encourage @FridaR and @THIYAGARAJANR
 
 **Day 5/30 (16th. Dec, 2019)**
 - Finally ran training for CycleGAN implementation, the results showed no change, turned out I had wrong variable returning in one of the function, fixed it and my [exercise of CycleGAN implementation for translating images from Summer to Winter and vice versa](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/CycleGAN_Exercise_untrained.ipynb) is completed
-
-
-
+ I encourage @THIYAGARAJANR  @Ahmad SiarM @Paul BruceS #FinalDaysof2019 #30DaysofUdacity
 
 
 
