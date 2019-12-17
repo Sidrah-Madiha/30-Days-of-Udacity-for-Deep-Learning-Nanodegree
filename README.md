@@ -223,6 +223,15 @@ I encourage @PawanB and myself to keep going, #FinalDaysof2019 #30DaysofUdacity
 - Completed Lesson "Pix2Pix and CycelGAN"  of Part "Generative Adverserial Network".
 I encourage @FridaR and @THIYAGARAJANR
 
+**Day 3/30 (14th. Dec, 2019):**  TO **Day /30 (16th. Dec, 2019):** 
+- Started CycleGAN implementation for translating images from Summer to Winter and vice versa, I coded it in Udacity workspace but for running on GPU, started GoogleColab.
+
+**Day 4/30 (15th. Dec, 2019)**
+- Spent the day while fixing error on Google Colab related issues, like importing custom modules etc.
+
+**Day 5/30 (16th. Dec, 2019)**
+- Finally ran training for CycleGAN implementation, the results showed no change, turned out I had wrong variable returning in one of the function, fixed it and my [exercise of CycleGAN implementation for translating images from Summer to Winter and vice versa](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/CycleGAN_Exercise_untrained.ipynb) is completed
+
 
 
 
