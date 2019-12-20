@@ -233,5 +233,17 @@ I encourage @FridaR and @THIYAGARAJANR
 - Finally ran training for CycleGAN implementation, the results showed no change, turned out I had wrong variable returning in one of the function, fixed it and my [exercise of CycleGAN implementation for translating images from Summer to Winter and vice versa](https://github.com/Sidrah-Madiha/30-Days-of-Udacity-for-Deep-Learning-Nanodegree/blob/master/Exercises/CycleGAN_Exercise_untrained.ipynb) is completed
  I encourage @THIYAGARAJANR  @Ahmad SiarM @Paul BruceS #FinalDaysof2019 #30DaysofUdacity
 
+**Day 6/30 (17th. Dec, 2019)**
+Started Project "Face Generation", decided to used Google Colab.
 
+**Day 7/30 (18th. Dec, 2019)**
+Running into issues on Google Colab. I am not sure how this error will be resolved. I asked question on Deep Learning channel and stopped worked there, wasted whole day in fixing it. https://www.screencast.com/t/XOl55HkaFb
+
+**Day 8/30 (19th. Dec, 2019)**
+Couldn't fix the issue of Google Colab, ended up using Colab on Firefox and completed project.
+
+**Day 9/30 (20th. Dec, 2019)**
+Took this day off, also project was submitted successfully :tada:
+#FinalDaysof2019 #30DaysofUdacity
+I encourage @Paul BruceS @THIYAGARAJANR @EugeneC @LauraT @SidrahS
 
