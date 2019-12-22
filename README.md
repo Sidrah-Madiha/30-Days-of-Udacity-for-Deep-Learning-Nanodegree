@@ -247,3 +247,8 @@ Took this day off, also project was submitted successfully :tada:
 #FinalDaysof2019 #30DaysofUdacity
 I encourage @Paul BruceS @THIYAGARAJANR @EugeneC @LauraT @SidrahS
 
+**Day 10/30 (21st. Dec, 2019)**
+Completed Lesson 1 of Part "Deploying a Model" 
+
+**Day 11/30 (21st. Dec, 2019)**
+Started Lesson 2, stuck at this error https://www.screencast.com/t/irnhV0Es, created a ticket for @Udacity support team. I will try to run on CPU and leave GPU for a while if the problem is not resolved till tomorrow.I encourage @THIYAGARAJANR  @Ahmad SiarM @Paul BruceS @Imroze @MuhammadN #FinalDaysof2019 #30DaysofUdacity
