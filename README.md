@@ -251,4 +251,5 @@ I encourage @Paul BruceS @THIYAGARAJANR @EugeneC @LauraT @SidrahS
 Completed Lesson 1 of Part "Deploying a Model" 
 
 **Day 11/30 (22nd. Dec, 2019)**
-Started Lesson 2, stuck at this error https://www.screencast.com/t/irnhV0Es, created a ticket for @Udacity support team. I will try to run on CPU and leave GPU for a while if the problem is not resolved till tomorrow.I encourage @THIYAGARAJANR  @Ahmad SiarM @Paul BruceS @Imroze @MuhammadN #FinalDaysof2019 #30DaysofUdacity
+Started Lesson 2, stuck at this error https://www.screencast.com/t/irnhV0Es, created a ticket for @Udacity support team. I will try to run on CPU and leave GPU for a while if the problem is not resolved till tomorrow.
+Watched this amazing interview of Sebastian Thrun https://youtu.be/ZPPAOakITeQ, I encourage @THIYAGARAJANR  @Ahmad SiarM @Paul BruceS @Imroze @MuhammadN #FinalDaysof2019 #30DaysofUdacity
